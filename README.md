@@ -121,7 +121,7 @@ Data analysis project focused on exploring customer data, performing data cleani
 
 Data pipeline project that works with weather API data and demonstrates **API ingestion, data transformation, pipeline automation, and workflow orchestration**.
 
----
+🔗 **Repository:** https://github.com/rohanziaa-bit/weather-data-etl-pipeline
 
 ### 🐳 Docker & CI/CD Data Engineering Project
 
@@ -129,6 +129,7 @@ Data pipeline project that works with weather API data and demonstrates **API in
 
 Containerized data engineering workflow with automated CI/CD, demonstrating how a data project can be **built, tested, packaged, and deployed through an automated pipeline**.
 
+🔗 **Repository:** https://github.com/rohanziaa-bit/sales-data-etl-pipeline
 ---
 
 ## 📚 Data Engineering Learning Journey
